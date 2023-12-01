@@ -211,7 +211,7 @@ npx cypress run
 
 Docker file:
 
-# Use an official PHP image as base
+### Use an official PHP image as base
 FROM php:8.1-fpm
 
 # Set the working directory
