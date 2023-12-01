@@ -1,5 +1,5 @@
 <a href="https://github.com/bhuvi1508/Docker-velflix-laravel"> <h1 align="center">Velflix</h1></a>
-<p align="center"><a href="https://github.com/josuapsianturi/velflix/blob/main/LICENSE"><img src="https://poser.pugx.org/cpriego/valet-linux/license.svg" alt="License"></a>
+<p align="center"><a href="https://github.com/bhuvi1508/Docker-velflix-laravel/blob/main/LICENSE"><img src="https://poser.pugx.org/cpriego/valet-linux/license.svg" alt="License"></a>
 </p>
 
 ## About
