@@ -56,10 +56,3 @@ Package | Version
 
 Install nginx reverse proxy to make this application available    
 
-<a name="contributing"></a>
-## Contributing
-Pull requests are welcome.
-
-<a name="license"></a>
-## License
-Velflix is an open-sourced software licensed under [the MIT license](https://github.com/josuapsianturi/velflix/blob/main/LICENSE)
