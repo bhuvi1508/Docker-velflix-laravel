@@ -6,21 +6,6 @@
 
 Velflix is a Laravel [Netflix](https://netflix.com) clone project using TALL stack ([Tailwindcss](https://tailwindcss.com/), [Alpinejs](https://github.com/alpinejs/alpine/), [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/) ).
 
-> **Note**
-> Work in Progress
-
-ontent.com/josuapsianturi/velflix/main/public/img/home.png)
-
-see full page [here](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/home-full-page.png)
-
-![movies header](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/movies-header.png)
-
-![movies](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/movies.png)
-
-see full page [here](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/movies-full-page.png)
-
-![Detail movies](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/details-movie.png)
-
 <a name="requirements"></a>
 ## Requirements
 
