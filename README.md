@@ -206,6 +206,11 @@ npx cypress run
 ./vendor/bin/phpstan analyse
 ```
 
+
+## Dockerizing
+
+
+
 <a name="contributing"></a>
 ## Contributing
 Pull requests are welcome.
