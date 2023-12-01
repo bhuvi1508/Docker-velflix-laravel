@@ -9,19 +9,7 @@ Velflix is a Laravel [Netflix](https://netflix.com) clone project using TALL sta
 > **Note**
 > Work in Progress
 
-## Table of Contents
-
-* [Screenshots](#screenshots)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Testing](#testing)
-* [Contributing](#contributing)
-* [License](#license)
-
-<a name="screenshots"></a>
-## Screenshots
-
-![home page](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/home.png)
+ontent.com/josuapsianturi/velflix/main/public/img/home.png)
 
 see full page [here](https://raw.githubusercontent.com/josuapsianturi/velflix/main/public/img/home-full-page.png)
 
