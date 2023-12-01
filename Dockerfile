@@ -41,9 +41,6 @@ COPY . .
 
 RUN npm install && npm run build
 
-# Copy the application code
-#COPY . /var/www/html
-
 # Generate Laravel key
 RUN php artisan key:generate
 
