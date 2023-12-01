@@ -209,6 +209,13 @@ npx cypress run
 
 ## Dockerizing
 
+####Dockerfile 
+
+
+
+
+
+
 
 
 
